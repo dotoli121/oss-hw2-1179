@@ -1,3 +1,5 @@
 project: oss-hw2-1179
 owner: baeeunsub
-status: main-baeeunsub
+status: merged-1179 by baeeunsubproject: oss-hw2-1179
+owner: baeeunsub
+status: merged-1179 by baeeunsub
